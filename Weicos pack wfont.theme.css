@@ -1,0 +1,34 @@
+/**
+ * @name Weicos pack wfont
+ * @description Pack made by WΞICO#0001
+ * @author WΞICO
+ * @version 1.0.0
+ * @authorId 553992879190573076
+  * @website https://www.weico.online
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Proza+Libre:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 58,80,135;
+  --accentcolor2: 255,115,250;
+  --linkcolor: 110,166,230;
+  --mentioncolor: 255,0,0;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 185,185,185;
+  --textdark: 140,140,140;
+  --textdarker: 115,115,115;
+  --textdarkest: 80,80,80;
+  --font: Proza Libre;
+  --backgroundaccent: 50,50,50;
+  --backgroundprimary: 30,30,30;
+  --backgroundsecondary: 20,20,20;
+  --backgroundsecondaryalt: 15,15,15;
+  --backgroundtertiary: 10,10,10;
+  --backgroundfloating: 0,0,0;
+  --settingsicons: 1;
+}
+
+
