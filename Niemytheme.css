@@ -1,7 +1,7 @@
 /**
  * @name Niemytheme
  * @author weiico
- * @version 1.0.0
+ * @version 1.0.1
  * @description MacOS based theme
  * @source https://github.com/w31c0/weicodiscordtheme/tree/main
  * @website https://weico.online
@@ -31,7 +31,7 @@
   --window-background-image-position: center;
   --window-background-image-size: cover;
   --window-background-image-attachment: fixed;
-  --window-opacity: 100%;
+  --window-opacity: 40%;
   --window-blur: 0;
   --window-friends-blur: 0;
   --window-margin: 24;
