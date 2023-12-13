@@ -9,6 +9,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Proza+Libre:wght@100;300;400;500;700&display=swap');
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+@import url(https://davart154.github.io/Themes/Icon%20Revert%202023/2023%20Icon%20Revert.css);
 
 :root {
   --accentcolor: 58,80,135;
@@ -32,5 +33,4 @@
 }
 
 
-@import url("https://milbits.github.io/oldcord/src/components/oldEmojis.css");
- @import url("https://milbits.github.io/oldcord/src/components/oldContext.css");
+
